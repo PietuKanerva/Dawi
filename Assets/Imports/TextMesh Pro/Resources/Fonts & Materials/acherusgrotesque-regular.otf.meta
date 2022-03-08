@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f7f56565b4467a046a5fd86572815429
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Acherus Grotesque
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 91db89a3218c6f742a54721879a94408, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

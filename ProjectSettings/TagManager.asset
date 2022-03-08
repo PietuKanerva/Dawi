@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Zombie
+  - Enemy
+  - Object
+  - Merchant
+  - EasterEgg
+  - Door2
+  - Door
+  - Coins
+  - WaveCount
+  - Musket
+  - WaveManager
+  - InputHandler
+  - Upgrade
+  - Treasure
+  - Door3
+  - Book
+  - Audio
+  - Lore
+  - Upgrade1
+  - Upgrade2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Enemies
+  - Interact
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 3601678889
+    locked: 0
